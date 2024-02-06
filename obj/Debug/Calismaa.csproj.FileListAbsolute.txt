@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Calismaa\Calismaa\bin\Debug\Calismaa.exe.config
+C:\Users\User\source\repos\Calismaa\Calismaa\bin\Debug\Calismaa.exe
+C:\Users\User\source\repos\Calismaa\Calismaa\bin\Debug\Calismaa.pdb
+C:\Users\User\source\repos\Calismaa\Calismaa\obj\Debug\Calismaa.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calismaa\Calismaa\obj\Debug\Calismaa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calismaa\Calismaa\obj\Debug\Calismaa.exe
+C:\Users\User\source\repos\Calismaa\Calismaa\obj\Debug\Calismaa.pdb
